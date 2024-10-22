@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dystopia98
 - 👀 I’m interested in Games programming
-- 🌱 I’m currently learning C# in Unity
-- 💞️ I’m looking to collaborate on videogames in 2D adventure- plataformers
+- 🌱 I’m currently learning C# in Unity, focusing on 2D games, mostly adventure and platformer games."
+- 💞️ I’m looking to collaborate on videogames in 2D
 - 📫 How to reach me E-mail : nicolasf22@live.com.ar
 - 😄 Pronouns: ...
 - ⚡ Fun fact: As long as it's respectful, you can use any pronouns for me 😄
